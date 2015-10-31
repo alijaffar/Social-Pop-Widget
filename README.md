@@ -3,7 +3,7 @@ Keep your website + user's privacy: use this as a locally hosted social sharing 
 
 	----- TO USE ----- 
 	1. Simply include the following where you want it to show:
-	<script src="js/socialpop.js?tw|fb|gp|li"></script>
+	<script src="socialpop.js?tw|fb|gp|li"></script>
 	
 	----- CUSTOMIZE -----
 	1. You can choose which icons to show; use their abbreviations (tw|fb|gp|li), seperated w/ the 'pipe' symbol ( | )
