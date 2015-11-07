@@ -19,3 +19,9 @@ Keep your website + user's privacy: use this as a locally hosted social sharing 
 	in v0.2 -- I'll add base64 encoded icons to reduce http requests, 
 	as well as more social sharing sources.	
 	
+	to add: 
+	-e-mail sharing
+	-other social networks
+	-sizing options
+	-base64 encoded images to avoid http requests
+	
